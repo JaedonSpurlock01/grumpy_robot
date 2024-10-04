@@ -1,0 +1,12 @@
+# # Build files
+build
+install
+log
+.vscode
+
+# # miscellaneous
+*.swp
+*.svg
+*.pyc
+*/__pycache__
+__pycache__
